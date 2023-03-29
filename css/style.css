@@ -1,0 +1,31 @@
+.inputs{
+    text-align: center;
+    
+}
+.inputs input{
+    width:150px;
+    height: 16px;
+    margin-left: 55px;
+
+}
+.btn{
+    text-align: center;
+    padding-top: 24px;
+}
+.btn button{
+    width: 100px;
+    height: 24px;
+    margin-left: 14px;
+    background-color:#fff;
+    color: rgb(16, 48, 58);
+    border-color: rgb(165, 194, 237);
+    border-radius: 7px;
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: midnightblue;
+}
